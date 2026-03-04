@@ -1,0 +1,236 @@
+---
+title: "Transformation Transition"
+format:
+  revealjs:
+    center: false
+    slide-number: true
+    css: slides.css
+---
+
+# Transformationen in Transitionen
+<br /><br />
+*Entwicklungs- und lerntheoretischer Blick auf Transitionen*
+<br /><br />
+Dr. Christof Nägele · Uni Basel & PH FHNW
+
+::: {.links}
+[ADAM](hhttps://adam.unibas.ch/go/crs/2097884). 
+[Programm](https://drive.switch.ch/index.php/s/y5eDSTL2EMkoXg5)
+:::
+
+# Lernen und Entwicklung
+<br /><br />
+Wie kann man Jugendliche oder junge Erwachsene in Transitionen am besten unterstützen, mit Fokus auf Lernen und Entwicklung?
+
+
+# Laufbahn Biographie
+
+Sicher ist, dass es zunehmend mehr darauf ankommt, dass jeder Mensch seine eigene Biographie sowohl im persönlichen und sozialen als auch im beruflichen Bereich gestalten und steuern kann.
+
+Allerdings kommt es heute darauf an, diesen Prozess nicht nur von seinem Ergebnis her zu sehen. 
+Viel wichtiger ist, ihn selbst als eine persönliche Entwicklungschance zu begreifen und pädagogisch zu nutzen. 
+
+::: {.links }
+Quelle:   
+Eckert, M. (2008). Defizite in der Berufsvorbereitung—Was ist ein gelingender Übergang von der Schule in den Beruf? In E. Schlemmer & H. Gerstberger (Eds), Ausbildungsfähigkeit im Spannungsfeld zwischen Wissenschaft, Politik und Praxis (pp. 149–159). VS Verlag für Sozialwissenschaften.
+:::
+
+# Laufbahn Karriere
+
+- *career as life process* <br />
+Career is about an ongoing process that accompanies the person’s entire life. 
+
+- *career as individual agency* <br /> 
+If career is recognised as a life process, it is vital to identify and understand the human participation in this process. 
+
+- *career as meaning making* <br />
+one’s life career development means a very complex and dynamic person-in-context process. 
+
+# Begriffe
+
+![](images/Lebensbogen.jpg){width=100%}
+
+# Definitionen
+
+- Transitionen
+- Transformationen <br /> <br />
+- Entwicklung
+- Reifung
+- Lernen
+
+# Entwicklung
+
+Unter Entwicklung versteht man im Allgemeinen einen Prozess der Entstehung, der Veränderung bzw. des Vergehens, wobei drei Prinzipien zu Grunde liegen: das Prinzip des Wachstums, das Prinzip der Reifung und das Prinzip des Lernens.
+
+::: {.links }
+Quelle:   
+Stangl, W. (2021). Stichwort: 'Entwicklung – Online Lexikon für Psychologie und Pädagogik'. Online Lexikon für Psychologie und Pädagogik.WW: https://lexikon.stangl.eu/12182/entwicklung (2021-03-02)
+:::
+
+# Reifung
+
+Als Reifung Vorgänge klassifiziert, die aufgrund endogen vorprogrammierter und innengesteuerter Wachstumsprozesse einsetzen und auch im weiteren Verlauf größtenteils von diesen gesteuert werden. Alle Vorgänge der Reifung sind letztlich durch Vererbung determiniert, wobei exogene Faktoren wenig bis gar keinen Einfluss auf die Reifung ausüben. 
+
+::: {.links }
+Quelle:   
+Stangl, W. (2021). Stichwort: 'Reifung – Online Lexikon für Psychologie und Pädagogik'. Online Lexikon für Psychologie und Pädagogik.WWW: https://lexikon.stangl.eu/1842/reifung#comments (2021-03-02)
+:::
+
+# Entwicklung: Life-Designing
+
+Individuals in the knowledge societies at the beginning of the 21st century must realize that career problems are only a piece of much broader concerns about how to live a life in a postmodern world shaped by a global economy and supported by information technology.
+
+::: {.links }
+Quelle:   
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
+:::
+
+# Entwicklung Laufbahn
+
+Life-designing intervention<br />
+
+- Adaptability
+- Narratability
+- Activity
+- Intentionality
+
+::: {.links }
+Quelle:   
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
+:::
+
+# Lernen
+
+Unter Lernen versteht man den absichtlichen oder den beiläufigen, individuellen oder kollektiven Erwerb von geistigen, körperlichen, sozialen Kenntnissen, Fähigkeiten und Fertigkeiten. 
+Lernen bedeutet, die Zukunft vorhersagen zu können und das Verhalten dementsprechend anzupassen. 
+
+::: {.links }
+Quelle:   
+Stangl, W. (2021). Stichwort: 'Lernen – Online Lexikon für Psychologie und Pädagogik'. Online Lexikon für Psychologie und Pädagogik.WWW: https://lexikon.stangl.eu/551/lernen/ (2021-03-02)
+:::
+
+# Arten des Lernens
+
+- Kumulation - Dressur
+- Assimilation – additives Lernen
+- Akkomodation – ausweitendes Lernen, neues Verständnis, neues Verhalten
+- Transformatives Lernen
+
+::: {.links }
+Quelle:  
+Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
+:::
+
+# Struktur Lerntheorie
+
+![](images/Illeris_Structure_Learning_Theory.png){width=100%}
+
+::: {.links }
+Quelle:   
+Illeris, K. (2009). A comprehensive understanding of human learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 7–20). Routledge.
+:::
+
+# Zwei Grundprozesse
+
+1. Externen Interaktion zwischen Lernenden und der sozialen, kulturellen und materiellen Umgebung. <br />
+2. Interner psychologischen Prozess der Erarbeitung und Aneignung, bei dem neue Impulse mit den Ergebnissen von vorher erworbenen Kenntnissen verknüpft werden.
+
+::: {.links }
+Quelle:  
+Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
+:::
+
+# Lernen drei Dimensionen
+
+![](images/Illeris_three_dimensions_learning.png){width=100%}
+
+::: {.links }
+Quelle:   
+Illeris, K. (2009). A comprehensive understanding of human learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 7–20). Routledge.
+:::
+
+# Lernen drei Dimensionen
+
+Inhaltliche Dimension von Wissen, Verstehen, Fähigkeiten, Können, Verhaltensweisen, Arbeitsmethoden, Werten etc. <br /><br />
+Emotionale Dimension von Gefühlen, Motivation und Wollen. <br /><br />
+Soziale Dimension von Interaktion, Kommunikation und Kooperation – die alle in einen gesellschaftlichen Kontext eingebettet sind. 
+
+
+::: {.links }
+Quelle:  
+Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
+:::
+
+# Wann und wo lernen wir?
+
+- Informell – Formal 
+- Implizit - Explizit
+
+# Theorie oder Tun?
+
+Throughout most of history, teaching and learning have been based on apprenticeship. 
+Children learned how to speak, grow crops, construct furniture, and make clothes. 
+But they didn't go to school to learn these things; instead, adults in their family and in their communities showed them how, and helped them do it…
+
+::: {.links }
+Quelle:  
+Collins, A. (2006). Cognitive apprenticeship. In K. R. Sawyer (Ed.), The cambridge handbook of the learning sciences. Cambridge University Press.
+:::
+
+# Learning in activity
+
+The defining characteristic of a situative approach is that instead of focusing on individual learners, the main focus of analysis is on activity systems: complex social organizations containing learners, teachers, curriculum materials, software tools, and the physical environment. <br /><br />
+From the situative perspective, all socially organized activities provide opportunities for learning to occur, including learning that is different from what a teacher or designer might wish. 
+
+::: {.links }
+Quelle:  
+Greeno, J. G. (2006). Learning in activity. In K. R. Sawyer (Ed.), The cambridge handbook of the learning sciences. Cambridge University Press. 
+:::
+
+# Reflexion
+
+![](images/Reflective_Practitioner_Cover.jpg){width=100%}
+
+# Reflection
+
+- Reflection-on-action (taking place a posteriori, when the task is already accomplished) 
+- Reflection-in-action (occurring while performing the task) are equally important to increasing one’s professionalism.
+
+::: {.links }
+Quelle:  
+Cattaneo, A. A. P., & Motta, E. (2021). “I reflect, therefore I am… a good professional”. On the relationship between reflection-on-action, reflection-in-action and professional performance in vocational education. Vocations and Learning, 14(2), 185–204. https://doi.org/10.1007/s12186-020-09259-9
+:::
+
+# Transformatives Lernen
+
+Transformative learning is defined as the process by which we transform problematic frames of reference (mindsets, habits of mind, meaning perspectives) – sets of assumption and expectation – to make them more inclusive, discriminating, open, reflective and emotionally able to change.
+
+::: {.links }
+Quelle:  
+Mezirow, J. (2009). An overview on transformative learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 90–105). Routledge.
+:::
+
+# Reflection on...
+
+- Process
+- Content
+- Goal
+- ...
+
+::: {.links }
+Quelle:  
+Liu, K. (2020). Critical reflection for transformative learning: Understanding e-portfolios in teacher education. Springer International Publishing. https://doi.org/10.1007/978-3-319-01955-0
+:::
+
+# Critical Reflection 
+
+![](images/Cycle_critical_reflection.png){width=100%}
+
+::: {.links }
+Quelle:  
+Liu, K. (2020). Critical reflection for transformative learning: Understanding e-portfolios in teacher education. Springer International Publishing. https://doi.org/10.1007/978-3-319-01955-0
+:::
+
+
+
+
