@@ -99,11 +99,13 @@
 /* 10) Links / sources */
 .reveal a { text-decoration: underline; text-underline-offset: 3px; }
 
-.links, .links a { font-size: 0.45em; }
-.links { opacity: 0.85; }
+.reveal .links,
+.reveal .links a { font-size: 0.45em; }
+.reveal .links { opacity: 0.85; }
 
-.source, .source a { font-size: 0.60em; }
-.source { opacity: 0.85; line-height: 1.25; margin-top: 12px; }
+.reveal .source,
+.reveal .source a { font-size: 0.60em; }
+.reveal .source { opacity: 0.85; line-height: 1.25; margin-top: 12px; }
 
 /* 11) Slide numbers */
 .reveal .slide-number {
@@ -127,6 +129,37 @@
 }
 
 /* 13) Print/PDF friendliness */
+
+/* Force smaller sources in RevealJS PDF export */
+.reveal .source,
+.reveal .source a{
+  font-size: 0.60em;
+}
+
 @media print {
-  .reveal .slides section { overflow: visible; }
+  .reveal .source,
+  .reveal .source a {
+    font-size: 0.55em !important;
+    line-height: 1.25 !important;
+  }
+}
+
+/* Reveal's PDF mode often adds these classes */
+.reveal.print-pdf .source,
+.reveal.print-pdf .source a,
+.print-pdf .source,
+.print-pdf .source a {
+  font-size: 0.55em !important;
+}
+
+
+/* Force readable text colours */
+.reveal,
+.reveal p, .reveal li, .reveal ul, .reveal ol,
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: #111 !important;
+}
+
+.reveal .slides section {
+  background: #fff !important;
 }
