@@ -18,6 +18,9 @@ Dr. Christof Nägele · Uni Basel & PH FHNW
 [Programm](https://drive.switch.ch/index.php/s/y5eDSTL2EMkoXg5)
 :::
 
+# TERMIN 1
+Einführung
+
 # Lernen und Entwicklung
 <br /><br />
 Wie kann man Jugendliche oder junge Erwachsene in Transitionen am besten unterstützen, mit Fokus auf Lernen und Entwicklung?
@@ -215,5 +218,128 @@ Liu, K. (2020). Critical reflection for transformative learning: Understanding e
 :::
 
 
+# TERMIN 2
+
+Lektüre
+
+<p class="apa-ref">Hoggan, C., Hoggan-Kloubert, T., & Kraus, K. (2026). Life transitions, daily living, and transformative learning: Insights from a migration journey. In M. Bernhard, S. Billett, C. Hof, V. J. Marsick, & P. H. Sawchuk (Eds), *Adult education in changing times* (pp. 187–202). Routledge.</p>
+
+<p class="apa-ref">Keane, M., Khupe, C., & Mpofu, V. (2022). Reflections on transformation: Stories from Southern Africa. In A. Nicolaides, S. Eschenbacher, P. T. Buergelt, Y. Gilpin-Jackson, M. Welch, & M. Misawa (Eds), *The Palgrave handbook of learning for transformation* (pp. 521–536). Springer International Publishing. https://doi.org/10.1007/978-3-030-84694-7_29 </p>
+
+
+# Leitfrage
+
+Wie, und von wem, kann Unterstützung im Übergang von Sek I über Sek II in Erwerbsarbeit oder Tertiärbildung als lern- und entwicklungsorientierter Prozess gestaltet werden, der Reflexion, Transformation und Identitätsentwicklung ermöglicht?
+
+# Life transitions, daily living, and transformative learning
+
+**Reflection and introspection**
+
+- *Critical self-reflection*<br>
+  Critical self-reflection refers to the process of questioning one’s taken-for-granted assumptions, beliefs, and perspectives in order to enable transformative learning (Mezirow, 2000).
+- *Soul work*<br>
+  “Soul work” refers to the engagement of emotions, imagination, and inner experience in processes of meaning-making and learning (Dirkx, 2001).
+- *Narrative reconstruction*<br>
+  Narrative reconstruction refers to the process of reinterpreting and reorganising one’s life experiences into a coherent story that enables new meanings and orientations for future action (Hoggan-Kloubert, 2024).
+
+
+# Transformative Learning: Ten Steps Mezirow
+
+<div style="font-size: 0.75em;">
+
+<table>
+<tr>
+<td><b>1. Trigger & Disruption</b></td>
+<td>
+• Disorienting dilemma<br>
+• Self-examination (incl. emotions)<br><br>
+Something disrupts existing meaning structures.
+</td>
+</tr>
+
+<tr>
+<td><b>2. Critical Reflection</b></td>
+<td>
+• Critical assessment of assumptions<br>
+• Recognition of shared experiences<br><br>
+Old perspectives are questioned and relativised.
+</td>
+</tr>
+
+<tr>
+<td><b>3. Exploration & Planning</b></td>
+<td>
+• Exploration of new roles/actions<br>
+• Planning a course of action<br>
+• Acquiring knowledge and skills<br><br>
+New possibilities are considered and prepared.
+</td>
+</tr>
+
+<tr>
+<td><b>4. Experimentation</b></td>
+<td>
+• Trying out new roles<br><br>
+New ways of being are tested in practice.
+</td>
+</tr>
+
+<tr>
+<td><b>5. Integration</b></td>
+<td>
+• Building competence and confidence<br>
+• Reintegration with a transformed perspective<br><br>
+The new perspective becomes part of everyday life.
+</td>
+</tr>
+
+</table>
+
+</div>
+
+::: {.source}
+Mezirow, J., & Associates. (2000). *Learning as transformation: Critical perspectives on a theory in progress*. Jossey-Bass Publishers.
+:::
+
+# Perspectives 
+
+*Constructivist perspective*<br>
+Transformative learning is seen as a process in which individuals actively construct new meanings by critically reflecting on their experiences, revising prior assumptions, and integrating new understandings into their worldview.
+
+*Psychoanalytic perspective*<br>
+Transformative learning is understood as a process that involves uncovering and working through unconscious emotions, desires, and inner conflicts, allowing deeper shifts in identity and meaning-making beyond purely rational reflection.
+
+*Situative perspective*<br>
+Transformative learning is understood as emerging through participation in social practices and contexts, where meaning is shaped in interaction with the environment.
+
+# Daily lived experience
+
+Transformative learning is deeply embedded within specific contexts and unfolds through interactions with the environment and other people. <br><br>
+This approach is particularly relevant when examining significant life changes
+
+# Reflections on transformation:<br> Stories from Southern Africa 
+
+Transformative learning includes emerging from closed worlds to expanded understandings and connections. 
+Escaping from fixed and limiting, or biased views, requires not only “Border-crossing”, but a transcending of borders. 
+Transformative learning starts with the individual and is shaped by our different environments. 
+We move from within our own inner and outer context to a new position of understanding. 
+In this, our learning moves us toward liberation from limiting perspectives.
+
+# Story telling
+
+Humans are storytelling beings who, individually and socially, lead storied lives.
+
+- Stories provide a healing rather than a factual truth.  
+- Stories allow for nuanced perspectives and interpretations.  
+- Stories contribute to learning.
+- Stories combine fact and fiction together with feeling.
+
+# Paths of Transformation
+
+- Transformation begins with awareness, openness, and empathetic intention.
+- Through noticing worldviews, we are more able to think beyond them.
+- Transformation is only visible to oneself when one pauses to reflect on the past.
+- Narratives present a helpful lens.
+- Paths unfold as we walk them
 
 
