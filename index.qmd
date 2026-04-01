@@ -12,25 +12,30 @@ format:
 ---
 
 # Transformationen in Transitionen
-<br /><br />
+
+::: {=html}
+<img src="images/Logo_UniBS.jpg" class="print-logo" alt="Logo">
+<div class="print-name">C. Nägele, PH FHNW & Uni Basel</div>
+:::
+
 *Entwicklungs- und lerntheoretischer Blick auf Transitionen*
 <br /><br />
 Dr. Christof Nägele · Uni Basel & PH FHNW
 
 ::: {.links}
-[ADAM](hhttps://adam.unibas.ch/go/crs/2097884). 
+[ADAM](https://adam.unibas.ch/go/crs/2097884). 
 [Programm](https://drive.switch.ch/index.php/s/y5eDSTL2EMkoXg5)
 :::
 
 # TERMIN 1
 Einführung
 
-# Lernen und Entwicklung
+## Lernen und Entwicklung
 <br /><br />
 Wie kann man Jugendliche oder junge Erwachsene in Transitionen am besten unterstützen, mit Fokus auf Lernen und Entwicklung?
 
 
-# Laufbahn Biographie
+## Laufbahn Biographie
 
 Sicher ist, dass es zunehmend mehr darauf ankommt, dass jeder Mensch seine eigene Biographie sowohl im persönlichen und sozialen als auch im beruflichen Bereich gestalten und steuern kann.
 
@@ -41,7 +46,7 @@ Viel wichtiger ist, ihn selbst als eine persönliche Entwicklungschance zu begre
 Eckert, M. (2008). Defizite in der Berufsvorbereitung—Was ist ein gelingender Übergang von der Schule in den Beruf? In E. Schlemmer & H. Gerstberger (Eds), Ausbildungsfähigkeit im Spannungsfeld zwischen Wissenschaft, Politik und Praxis (pp. 149–159). VS Verlag für Sozialwissenschaften.
 :::
 
-# Laufbahn Karriere
+## Laufbahn Karriere
 
 - *career as life process* <br />
 Career is about an ongoing process that accompanies the person’s entire life. 
@@ -52,11 +57,11 @@ If career is recognised as a life process, it is vital to identify and understan
 - *career as meaning making* <br />
 one’s life career development means a very complex and dynamic person-in-context process. 
 
-# Begriffe
+## Begriffe
 
 ![](images/Lebensbogen.jpg){width=100%}
 
-# Definitionen
+## Definitionen
 
 - Transitionen
 - Transformationen <br /> <br />
@@ -64,7 +69,7 @@ one’s life career development means a very complex and dynamic person-in-conte
 - Reifung
 - Lernen
 
-# Entwicklung
+## Entwicklung
 
 Unter Entwicklung versteht man im Allgemeinen einen Prozess der Entstehung, der Veränderung bzw. des Vergehens, wobei drei Prinzipien zu Grunde liegen: das Prinzip des Wachstums, das Prinzip der Reifung und das Prinzip des Lernens.
 
@@ -72,7 +77,7 @@ Unter Entwicklung versteht man im Allgemeinen einen Prozess der Entstehung, der 
 Stangl, W. (2021). Stichwort: Entwicklung. Online Lexikon für Psychologie und Pädagogik. https://lexikon.stangl.eu/12182/entwicklung (2021-03-02)
 :::
 
-# Reifung
+## Reifung
 
 Als Reifung Vorgänge klassifiziert, die aufgrund endogen vorprogrammierter und innengesteuerter Wachstumsprozesse einsetzen und auch im weiteren Verlauf größtenteils von diesen gesteuert werden. Alle Vorgänge der Reifung sind letztlich durch Vererbung determiniert, wobei exogene Faktoren wenig bis gar keinen Einfluss auf die Reifung ausüben. 
 
@@ -80,7 +85,7 @@ Als Reifung Vorgänge klassifiziert, die aufgrund endogen vorprogrammierter und 
 Stangl, W. (2021). Stichwort: Reifung. Online Lexikon für Psychologie und Pädagogik. https://lexikon.stangl.eu/1842/reifung#comments (2021-03-02)
 :::
 
-# Entwicklung: Life-Designing
+## Entwicklung: Life-Designing
 
 Individuals in the knowledge societies at the beginning of the 21st century must realize that career problems are only a piece of much broader concerns about how to live a life in a postmodern world shaped by a global economy and supported by information technology.
 
@@ -88,7 +93,7 @@ Individuals in the knowledge societies at the beginning of the 21st century must
 Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
 :::
 
-# Entwicklung Laufbahn
+## Entwicklung Laufbahn
 
 Life-designing intervention<br />
 
@@ -101,7 +106,7 @@ Life-designing intervention<br />
 Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
 :::
 
-# Lernen
+## Lernen
 
 Unter Lernen versteht man den absichtlichen oder den beiläufigen, individuellen oder kollektiven Erwerb von geistigen, körperlichen, sozialen Kenntnissen, Fähigkeiten und Fertigkeiten. 
 Lernen bedeutet, die Zukunft vorhersagen zu können und das Verhalten dementsprechend anzupassen. 
@@ -110,18 +115,18 @@ Lernen bedeutet, die Zukunft vorhersagen zu können und das Verhalten dementspre
 Stangl, W. (2021). Stichwort: Lernen. Online Lexikon für Psychologie und Pädagogik. https://lexikon.stangl.eu/551/lernen/ (2021-03-02)
 :::
 
-# Arten des Lernens
+## Arten des Lernens
 
 - Kumulation - Dressur
 - Assimilation – additives Lernen
-- Akkomodation – ausweitendes Lernen, neues Verständnis, neues Verhalten
+- Akkommodation – ausweitendes Lernen, neues Verständnis, neues Verhalten
 - Transformatives Lernen
 
 ::: {.links }
 Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
 :::
 
-# Struktur Lerntheorie
+## Struktur Lerntheorie
 
 ![](images/Illeris_Structure_Learning_Theory.png){width=100%}
 
@@ -129,16 +134,16 @@ Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internac
 Illeris, K. (2009). A comprehensive understanding of human learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 7–20). Routledge.
 :::
 
-# Zwei Grundprozesse
+## Zwei Grundprozesse
 
-1. Externen Interaktion zwischen Lernenden und der sozialen, kulturellen und materiellen Umgebung. <br />
-2. Interner psychologischen Prozess der Erarbeitung und Aneignung, bei dem neue Impulse mit den Ergebnissen von vorher erworbenen Kenntnissen verknüpft werden.
+1. Externe Interaktion zwischen Lernenden und der sozialen, kulturellen und materiellen Umgebung. <br />
+2. Interner psychologischer Prozess der Erarbeitung und Aneignung, bei dem neue Impulse mit den Ergebnissen von vorher erworbenen Kenntnissen verknüpft werden.
 
 ::: {.source}
 Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
 :::
 
-# Lernen drei Dimensionen
+## Lernen drei Dimensionen
 
 ![](images/Illeris_three_dimensions_learning.png){width=100%}
 
@@ -146,7 +151,7 @@ Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internac
 Illeris, K. (2009). A comprehensive understanding of human learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 7–20). Routledge.
 :::
 
-# Lernen drei Dimensionen
+## Lernen drei Dimensionen
 
 Inhaltliche Dimension von Wissen, Verstehen, Fähigkeiten, Können, Verhaltensweisen, Arbeitsmethoden, Werten etc. <br /><br />
 Emotionale Dimension von Gefühlen, Motivation und Wollen. <br /><br />
@@ -157,35 +162,35 @@ Soziale Dimension von Interaktion, Kommunikation und Kooperation – die alle in
 Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
 :::
 
-# Wann und wo lernen wir?
+## Wann und wo lernen wir?
 
 - Informell – Formal 
 - Implizit - Explizit
 
-# Theorie oder Tun?
+## Theorie oder Tun?
 
 Throughout most of history, teaching and learning have been based on apprenticeship. 
 Children learned how to speak, grow crops, construct furniture, and make clothes. 
 But they didn't go to school to learn these things; instead, adults in their family and in their communities showed them how, and helped them do it…
 
 ::: {.source }
-Collins, A. (2006). Cognitive apprenticeship. In K. R. Sawyer (Ed.), The cambridge handbook of the learning sciences. Cambridge University Press.
+Collins, A. (2006). Cognitive apprenticeship. In K. R. Sawyer (Ed.), The Cambridge handbook of the learning sciences. Cambridge University Press.
 :::
 
-# Learning in activity
+## Learning in activity
 
 The defining characteristic of a situative approach is that instead of focusing on individual learners, the main focus of analysis is on activity systems: complex social organizations containing learners, teachers, curriculum materials, software tools, and the physical environment. <br /><br />
 From the situative perspective, all socially organized activities provide opportunities for learning to occur, including learning that is different from what a teacher or designer might wish. 
 
 ::: {.source }
-Greeno, J. G. (2006). Learning in activity. In K. R. Sawyer (Ed.), The cambridge handbook of the learning sciences. Cambridge University Press. 
+Greeno, J. G. (2006). Learning in activity. In K. R. Sawyer (Ed.), The Cambridge handbook of the learning sciences. Cambridge University Press. 
 :::
 
-# Reflexion
+## Reflexion
 
 ![](images/Reflective_Practitioner_Cover.jpg){width=100%}
 
-# Reflection
+## Reflection
 
 - Reflection-on-action (taking place a posteriori, when the task is already accomplished) 
 - Reflection-in-action (occurring while performing the task) are equally important to increasing one’s professionalism.
@@ -194,7 +199,7 @@ Greeno, J. G. (2006). Learning in activity. In K. R. Sawyer (Ed.), The cambridge
 Cattaneo, A. A. P., & Motta, E. (2021). “I reflect, therefore I am… a good professional”. On the relationship between reflection-on-action, reflection-in-action and professional performance in vocational education. Vocations and Learning, 14(2), 185–204. https://doi.org/10.1007/s12186-020-09259-9
 :::
 
-# Transformatives Lernen
+## Transformatives Lernen
 
 Transformative learning is defined as the process by which we transform problematic frames of reference (mindsets, habits of mind, meaning perspectives) – sets of assumption and expectation – to make them more inclusive, discriminating, open, reflective and emotionally able to change.
 
@@ -202,7 +207,7 @@ Transformative learning is defined as the process by which we transform problema
 Mezirow, J. (2009). An overview on transformative learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 90–105). Routledge.
 :::
 
-# Reflection on...
+## Reflection on...
 
 - Process
 - Content
@@ -213,7 +218,7 @@ Mezirow, J. (2009). An overview on transformative learning. In K. Illeris (Ed.),
 Liu, K. (2020). Critical reflection for transformative learning: Understanding e-portfolios in teacher education. Springer International Publishing. https://doi.org/10.1007/978-3-319-01955-0
 :::
 
-# Critical Reflection 
+## Critical Reflection 
 
 ![](images/Cycle_critical_reflection.png){width=100%}
 
@@ -223,7 +228,7 @@ Liu, K. (2020). Critical reflection for transformative learning: Understanding e
 
 
 # TERMIN 2
-
+<br>
 Lektüre
 
 <p class="apa-ref">Hoggan, C., Hoggan-Kloubert, T., & Kraus, K. (2026). Life transitions, daily living, and transformative learning: Insights from a migration journey. In M. Bernhard, S. Billett, C. Hof, V. J. Marsick, & P. H. Sawchuk (Eds), *Adult education in changing times* (pp. 187–202). Routledge.</p>
@@ -231,11 +236,11 @@ Lektüre
 <p class="apa-ref">Keane, M., Khupe, C., & Mpofu, V. (2022). Reflections on transformation: Stories from Southern Africa. In A. Nicolaides, S. Eschenbacher, P. T. Buergelt, Y. Gilpin-Jackson, M. Welch, & M. Misawa (Eds), *The Palgrave handbook of learning for transformation* (pp. 521–536). Springer International Publishing. https://doi.org/10.1007/978-3-030-84694-7_29 </p>
 
 
-# Leitfrage
+## Leitfrage
 
 Wie, und von wem, kann Unterstützung im Übergang von Sek I über Sek II in Erwerbsarbeit oder Tertiärbildung als lern- und entwicklungsorientierter Prozess gestaltet werden, der Reflexion, Transformation und Identitätsentwicklung ermöglicht?
 
-# Life transitions, daily living, and transformative learning
+## Life transitions, daily living, and transformative learning
 
 **Reflection and introspection**
 
@@ -247,7 +252,7 @@ Wie, und von wem, kann Unterstützung im Übergang von Sek I über Sek II in Erw
   Narrative reconstruction refers to the process of reinterpreting and reorganising one’s life experiences into a coherent story that enables new meanings and orientations for future action (Hoggan-Kloubert, 2024).
 
 
-# Transformative Learning: Ten Steps Mezirow
+## Transformative Learning: Ten Steps Mezirow
 
 <div style="font-size: 0.75em;">
 
@@ -305,7 +310,7 @@ The new perspective becomes part of everyday life.
 Mezirow, J., & Associates. (2000). *Learning as transformation: Critical perspectives on a theory in progress*. Jossey-Bass Publishers.
 :::
 
-# Perspectives 
+## Perspectives 
 
 *Constructivist perspective*<br>
 Transformative learning is seen as a process in which individuals actively construct new meanings by critically reflecting on their experiences, revising prior assumptions, and integrating new understandings into their worldview.
@@ -316,12 +321,12 @@ Transformative learning is understood as a process that involves uncovering and 
 *Situative perspective*<br>
 Transformative learning is understood as emerging through participation in social practices and contexts, where meaning is shaped in interaction with the environment.
 
-# Daily lived experience
+## Daily lived experience
 
 Transformative learning is deeply embedded within specific contexts and unfolds through interactions with the environment and other people. <br><br>
 This approach is particularly relevant when examining significant life changes
 
-# Reflections on transformation:<br> Stories from Southern Africa 
+## Reflections on transformation:<br> Stories from Southern Africa 
 
 Transformative learning includes emerging from closed worlds to expanded understandings and connections. 
 Escaping from fixed and limiting, or biased views, requires not only “Border-crossing”, but a transcending of borders. 
@@ -329,7 +334,7 @@ Transformative learning starts with the individual and is shaped by our differen
 We move from within our own inner and outer context to a new position of understanding. 
 In this, our learning moves us toward liberation from limiting perspectives.
 
-# Story telling
+## Story telling
 
 Humans are storytelling beings who, individually and socially, lead storied lives.
 
@@ -338,12 +343,339 @@ Humans are storytelling beings who, individually and socially, lead storied live
 - Stories contribute to learning.
 - Stories combine fact and fiction together with feeling.
 
-# Paths of Transformation
+## Paths of Transformation
 
 - Transformation begins with awareness, openness, and empathetic intention.
 - Through noticing worldviews, we are more able to think beyond them.
 - Transformation is only visible to oneself when one pauses to reflect on the past.
 - Narratives present a helpful lens.
 - Paths unfold as we walk them
+
+
+
+# TERMIN 3
+<br>
+Lektüre
+
+Wenger, E. (2009). A social theory of learning. In K. Illeris (Ed.), *Contemporary theories of learning: Learning theorists ... In their own words* (pp. 209–218). Routledge.
+
+Bernhard, M., Billett, S., & Kraus, K. (2026). Learning at the nexus of life course, work, and transitions. In V. J. Marsick & P. H. Sawchuk, *Adult education in changing times* (1st edn, pp. 29–45). Routledge. https://doi.org/10.4324/9781003584384-4
+
+
+# A social theory of learning
+
+Lernen ist ein sozialer Prozess, in dem Menschen durch Teilnahme (participation) an gemeinsamer Praxis (practice) Bedeutung (meaning) aushandeln und ihre Identität (identity) entwickeln.
+
+
+## Wichtige Begriffe
+
+<div style="font-size: 0.80em; line-height: 1.15;">
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 46%; vertical-align: top; padding: 4px 12px 4px 0;">Lernen ist soziale Teilnahme <br>(learning as social participation)</td>
+    <td class="fragment" style="width: 54%; vertical-align: top; padding: 4px 0 4px 12px;">Eine Lernende versteht einen Inhalt besser, indem sie mit anderen diskutiert, Fragen stellt und gemeinsam Aufgaben löst.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Praxisgemeinschaften <br>(communities of practice)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Eine Gruppe von Lernenden entwickelt gemeinsam Strategien, wie sie Aufgaben lösen oder sich auf Prüfungen vorbereiten.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Lernen als Identitätsentwicklung <br>(identity formation)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Eine Person beginnt sich selbst als „jemand, der das versteht“ oder „der das nicht kann“ zu sehen.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Bedeutung durch Teilnahme und Vergegenständlichung <br>(participation & reification)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Eine Gruppe entwickelt gemeinsam Materialien, Dokumente oder Modelle, die ihre Erfahrungen strukturieren und verständlich machen.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Praxis <br>(practice)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Lernende übernehmen typische Vorgehensweisen, z. B. wie man ein Problem analysiert oder eine Aufgabe strukturiert.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Vom Rand zur Teilhabe <br>(legitimate peripheral participation)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Eine Person beteiligt sich zunächst wenig und beobachtend und bringt sich später aktiv in Diskussionen ein.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Lernen als Prozess über Zeit <br>(trajectories)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Eine Lernende entwickelt sich von einem ersten Verständnis hin zu sicherem Anwenden eines Konzepts.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Lernen an Grenzen zwischen Gemeinschaften <br>(boundaries / boundary crossing)</td>
+    <td class="fragment" style="vertical-align: top; padding: 4px 0 4px 12px;">Eine Person merkt, dass Wissen aus einem Kontext (z. B. Schule) anders angewendet werden muss als in einem anderen Kontext (z. B. Praxis).</td>
+  </tr>
+</table>
+
+</div>
+
+
+## Wie Communities of Practice aussehen
+
+<div style="font-size: 0.78em; line-height: 1.2;">
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="width: 34%; text-align: left; vertical-align: top; padding: 4px 12px 6px 0;">Activity</th>
+    <th style="width: 66%; text-align: left; vertical-align: top; padding: 4px 0 6px 12px;">Example</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Problem solving</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"Can we work on this design and brainstorm some ideas; I’m stuck."</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Requests for information</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"Where can I find the code to connect to the server?"</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Seeking experience</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"Has anyone dealt with a customer in this situation?"</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Reusing assets</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"I have a proposal for a local area network I wrote for a client last year. I can send it to you and you can easily tweak it for this new client."</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Coordination and synergy</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"Can we combine our purchases of solvent to achieve bulk discounts?"</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Discussing developments</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"What do you think of the new CAD system? Does it really help?"</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Documentation projects</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"We have faced this problem five times now. Let us write it down once and for all."</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Visits</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"Can we come and see your after-school program? We need to establish one in our city."</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 12px 4px 0;">Mapping knowledge and identifying gaps</td>
+    <td style="vertical-align: top; padding: 4px 0 4px 12px;">"Who knows what, and what are we missing? What other groups should we connect with?"</td>
+  </tr>
+</table>
+
+</div>
+
+::: {.source}
+Wenger, E. (2011). Communities of practice: A brief introduction.
+:::
+
+
+## Relevanz der Theorie im Übergang 
+<br>
+
+Übergänge können als Prozesse verstanden werden, in denen sich Individuen zwischen Praxisgemeinschaften bewegen und dabei ihre Teilnahme, Bedeutungszuschreibungen und Identität neu aushandeln.
+
+
+## Konkret
+
+<div style="font-size: 0.80em; line-height: 1.15;">
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="width:33%; text-align: left; vertical-align: top; padding: 4px 12px 6px 0;">Konzept</th>
+    <th style="width:33%; text-align: left; vertical-align: top; padding: 4px 0 6px 12px;">Beispiel</th>
+    <th style="width:33%; text-align: left; vertical-align: top; padding: 4px 0 6px 12px;">Konsequenz</th>
+  </tr>
+  <tr>
+    <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Übergänge = Wechsel zwischen Praxisgemeinschaften</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	•	Schule → Betrieb <br> •	Sek I → Sek II</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Eintritt in neue Gemeinschaften mit anderen Praktiken</td>
+  </tr>
+  <tr>
+    <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Lernen als Bewegung (Trajektorien)</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Übergänge sind keine punktuellen Ereignisse: Entwicklungsprozesse über Zeit</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Es bracuht genügend Zeit</td>
+  </tr>
+  <tr>
+    <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Identität im Zentrum</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	von „Schüler:in“ → „Lernende:r / Fachperson</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Es geht nicht nur um Fachwissen, Informationen</td>
+  </tr>
+  <tr>
+    <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Grenzen zwischen Gemeinschaften (Boundaries)</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Übergänge = Grenzübertritte<br>
+	•	unterschiedliche Erwartungen<br>
+	•	unterschiedliche Praktiken<br>
+	•	unterschiedliche Kulturen </td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Missverständnisse <br>Anpassungsprobleme</td>
+  </tr>
+  <tr>
+    <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Vermittlung zwischen Kontexten</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">erfolgreiche Übergänge brauchen: <br>Brücken (boundary crossing) <br>Personen, die vermitteln (broker) </td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Lehrer:innen, Berufsbildner:innen</td>
+  </tr>
+  <tr>
+    <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Teilnahme neu verhandeln</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Lernende müssen:
+	•	ihre Rolle neu finden
+	•	ihren Platz in der neuen Gemeinschaft klären</td>
+    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	von peripherer Teilnahme
+→ zu aktiver Beteiligung
+</td>
+  </tr>
+</table>
+
+</div>
+
+
+## Aktivitäten einer Community of Practice "Übergang"
+
+Domain<br>
+Identity defined by a shared domain of interest.
+
+Community<br>
+Members of a community engage in joint activities and discussions, help each other, and share information
+
+Practice<br>
+They develop a shared repertoire of resources: experiences, stories, tools, ways of addressing recurring problems. 
+
+::: {.source}
+Wenger, E. (2011). Communities of practice: A brief introduction.
+:::
+
+## Wie könnte das umgesetzt werden? 
+<br>
+A social theory of learning<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
+
+## Unterstützung
+
+::: {.small-text}
+
+Übergänge sind mehr als Entscheidungen<br>
+Sinn- und Bedeutungsfragen einbeziehen<br>
+
+Zugang zu Praxis<br>
+Schnupperlehre, Praktika, erfahrungsbasierte Formate, aktive Auseinandersetzung<br>
+
+Zugehörigkeit<br>
+soziale Integration im Betrieb / Schule, Unterstützung beim „Dazugehören“<br>
+
+Übergänge sind Identitätsprozesse<br>
+Identitätsentwicklung unterstützen, nicht nur Informationen liefern<br>
+
+Unterschiedliche Lernlogiken treffen aufeinander<br>
+Brüche und Anpassungsprozesse
+
+Übergänge als Aushandlungsprozesse<br>
+Begleitung, Reflexionsräumen
+
+:::
+
+
+
+# Learning at the Nexus of Life Course, Work, and Transitions
+
+
+# Aussagen
+
+::: {.small-text}
+<br>
+Against the orthodoxies of schooled societies, it is important to remember that learning is something that people do for themselves and cannot be done for them. As acknowledged in various forms of constructivism, by Piaget (1971), Vygotsky (1978), and Bruner (2009), people are the meaning makers. That active process leads to changes in what individuals know (i.e., conceptual knowledge), can do (i.e., procedural knowledge), sense (i.e., perceptibility), and value (i.e., dispositional knowledge) (p. 29-30).
+
+…learning is about individual meaning-making in and active engagement with specific circumstances (p. 30).
+
+This is because the basis of that meaning making is a product of how individuals construe and construct knowledge, which involves a process of remaking, not just copying, which, again, is unlikely to be uniform because it is a person-dependent process developed biographically in the course of a life and therefore based on previous experiences (p. 31).
+
+Lastly, specific qualities and characteristics of learning emerge when learning is explored at the intersection of life course, work, and transitions: learning appears as a matter of positionality and subjectivity, is characterised by translation and transitions, and is about relating knowledge and (life) experience (p. 31)
+
+:::
+
+## Einbettung
+<br>
+*Processes*: learning taking place in biographies, everyday life, and liminal spaces<br>
+
+*Contexts*: relationships with institutions, organisations, and society<br>
+
+*Qualities*: positionality, translation, and relating knowledge and experience<br>
+
+
+## Kerngedanken
+<br>
+
+Learning emerges at the intersection (“nexus”) of three domains:<br><br>
+	•	the life course (biography, personal development)<br>
+	•	work (labour market, practice, occupations)<br>
+	•	transitions (changes between roles, contexts, statuses)<br><br>
+
+Learning cannot be understood without considering all three together.
+
+
+## Key arguments
+
+<div style="font-size: 0.72em; line-height: 1.15;">
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="width: 28%; text-align: left; vertical-align: top; padding: 4px 8px 6px 0;">Argument</th>
+    <th style="width: 48%; text-align: left; vertical-align: top; padding: 4px 8px 6px 0;">Detail</th>
+    <th style="width: 24%; text-align: left; vertical-align: top; padding: 4px 0 6px 0;">Takeaway</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Learning is relational and situated</td>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Learning is shaped by the interaction between individual agency and social structures (institutions, norms, work contexts).</td>
+    <td style="vertical-align: top; padding: 4px 0 6px 0;">It is not purely individual, but co-constructed in context.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Transitions are key moments for learning</td>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Life transitions (e.g. entering work, changing jobs, migration) create uncertainty, disruption, and a need for adaptation.</td>
+    <td style="vertical-align: top; padding: 4px 0 6px 0;">These moments trigger learning processes.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Learning is embedded in the life course</td>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Learning is linked to biography, past experiences, and future expectations.</td>
+    <td style="vertical-align: top; padding: 4px 0 6px 0;">Individuals interpret transitions through their life histories.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Work is a central site of learning</td>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Work is not just application of knowledge; it is a primary context for learning and development.</td>
+    <td style="vertical-align: top; padding: 4px 0 6px 0;">Learning occurs through participation, practice, and engagement in work activities.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Transitions are negotiated, not given</td>
+    <td style="vertical-align: top; padding: 4px 8px 6px 0;">Individuals actively interpret and deal with transitions; outcomes depend on personal resources and social conditions.</td>
+    <td style="vertical-align: top; padding: 4px 0 6px 0;">Learning = coping with and shaping change.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 4px 8px 0 0;">Multiple levels interact</td>
+    <td style="vertical-align: top; padding: 4px 8px 0 0;">Interaction between societal change, institutional structures, and individual experiences.</td>
+    <td style="vertical-align: top; padding: 4px 0 0 0;">Learning happens in this multi-level interplay.</td>
+  </tr>
+
+</table>
+
+</div>
+
+## Wie könnte das umgesetzt werden? 
+<br>
+Learning at the Nexus of Life Course, Work, and Transitions<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
+
+# Unterstützung
+<br>
+
+::: {.small-text}
+
+Lebenslauf → Biografie zählt<br>
+Erfahrungen, Erwartungen, Selbstkonzepte<br><br>
+
+Arbeit → Lernen durch Teilnahme<br>
+konkrete Tätigkeiten, Teilnahme an Praxis<br><br>
+
+Übergang → Auslöser für Lernen<br>
+Unsicherheit, neue Anforderungen<br><br>
+
+Übergänge müssen ausgehandelt werden<br>
+Rolle klären, Erwartungen interpretieren<br><br>
+
+Zusammenspiel von Struktur und Individuum<br>
+Möglichkeiten (Lehrstelle, Unterstützung, individuellem Engagement
+
+:::
 
 
