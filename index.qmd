@@ -8,10 +8,11 @@ format:
     progress: true
     transition: none
     smaller: false
+    slide-level: 3
     css: slides.css
 ---
 
-# Transformationen in Transitionen
+# Transformationen In Transitionen
 
 ::: {=html}
 <img src="images/Logo_UniBS.jpg" class="print-logo" alt="Logo">
@@ -27,10 +28,10 @@ Dr. Christof Nägele · Uni Basel & PH FHNW
 [Programm](https://drive.switch.ch/index.php/s/y5eDSTL2EMkoXg5)
 :::
 
-# TERMIN 1
+# Termin 1
 Einführung
 
-## Lernen und Entwicklung
+## Lernen Und Entwicklung
 <br /><br />
 Wie kann man Jugendliche oder junge Erwachsene in Transitionen am besten unterstützen, mit Fokus auf Lernen und Entwicklung?
 
@@ -115,7 +116,7 @@ Lernen bedeutet, die Zukunft vorhersagen zu können und das Verhalten dementspre
 Stangl, W. (2021). Stichwort: Lernen. Online Lexikon für Psychologie und Pädagogik. https://lexikon.stangl.eu/551/lernen/ (2021-03-02)
 :::
 
-## Arten des Lernens
+## Arten Des Lernens
 
 - Kumulation - Dressur
 - Assimilation – additives Lernen
@@ -143,7 +144,7 @@ Illeris, K. (2009). A comprehensive understanding of human learning. In K. Iller
 Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
 :::
 
-## Lernen drei Dimensionen
+## Lernen Drei Dimensionen
 
 ![](images/Illeris_three_dimensions_learning.png){width=100%}
 
@@ -151,7 +152,7 @@ Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internac
 Illeris, K. (2009). A comprehensive understanding of human learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 7–20). Routledge.
 :::
 
-## Lernen drei Dimensionen
+## Lernen Drei Dimensionen
 
 Inhaltliche Dimension von Wissen, Verstehen, Fähigkeiten, Können, Verhaltensweisen, Arbeitsmethoden, Werten etc. <br /><br />
 Emotionale Dimension von Gefühlen, Motivation und Wollen. <br /><br />
@@ -162,12 +163,12 @@ Soziale Dimension von Interaktion, Kommunikation und Kooperation – die alle in
 Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
 :::
 
-## Wann und wo lernen wir?
+## Wann Und Wo Lernen Wir?
 
 - Informell – Formal 
 - Implizit - Explizit
 
-## Theorie oder Tun?
+## Theorie Oder Tun?
 
 Throughout most of history, teaching and learning have been based on apprenticeship. 
 Children learned how to speak, grow crops, construct furniture, and make clothes. 
@@ -177,7 +178,7 @@ But they didn't go to school to learn these things; instead, adults in their fam
 Collins, A. (2006). Cognitive apprenticeship. In K. R. Sawyer (Ed.), The Cambridge handbook of the learning sciences. Cambridge University Press.
 :::
 
-## Learning in activity
+## Learning In Activity
 
 The defining characteristic of a situative approach is that instead of focusing on individual learners, the main focus of analysis is on activity systems: complex social organizations containing learners, teachers, curriculum materials, software tools, and the physical environment. <br /><br />
 From the situative perspective, all socially organized activities provide opportunities for learning to occur, including learning that is different from what a teacher or designer might wish. 
@@ -207,7 +208,7 @@ Transformative learning is defined as the process by which we transform problema
 Mezirow, J. (2009). An overview on transformative learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 90–105). Routledge.
 :::
 
-## Reflection on...
+## Reflection On...
 
 - Process
 - Content
@@ -227,7 +228,7 @@ Liu, K. (2020). Critical reflection for transformative learning: Understanding e
 :::
 
 
-# TERMIN 2
+# Termin 2
 <br>
 Lektüre
 
@@ -240,7 +241,7 @@ Lektüre
 
 Wie, und von wem, kann Unterstützung im Übergang von Sek I über Sek II in Erwerbsarbeit oder Tertiärbildung als lern- und entwicklungsorientierter Prozess gestaltet werden, der Reflexion, Transformation und Identitätsentwicklung ermöglicht?
 
-## Life transitions, daily living, and transformative learning
+## Life Transitions, Daily Living, And Transformative Learning
 
 **Reflection and introspection**
 
@@ -321,12 +322,12 @@ Transformative learning is understood as a process that involves uncovering and 
 *Situative perspective*<br>
 Transformative learning is understood as emerging through participation in social practices and contexts, where meaning is shaped in interaction with the environment.
 
-## Daily lived experience
+## Daily Lived Experience
 
 Transformative learning is deeply embedded within specific contexts and unfolds through interactions with the environment and other people. <br><br>
 This approach is particularly relevant when examining significant life changes
 
-## Reflections on transformation:<br> Stories from Southern Africa 
+## Reflections On Transformation:<br> Stories From Southern Africa 
 
 Transformative learning includes emerging from closed worlds to expanded understandings and connections. 
 Escaping from fixed and limiting, or biased views, requires not only “Border-crossing”, but a transcending of borders. 
@@ -334,7 +335,7 @@ Transformative learning starts with the individual and is shaped by our differen
 We move from within our own inner and outer context to a new position of understanding. 
 In this, our learning moves us toward liberation from limiting perspectives.
 
-## Story telling
+## Storytelling
 
 Humans are storytelling beings who, individually and socially, lead storied lives.
 
@@ -343,7 +344,7 @@ Humans are storytelling beings who, individually and socially, lead storied live
 - Stories contribute to learning.
 - Stories combine fact and fiction together with feeling.
 
-## Paths of Transformation
+## Paths Of Transformation
 
 - Transformation begins with awareness, openness, and empathetic intention.
 - Through noticing worldviews, we are more able to think beyond them.
@@ -353,7 +354,7 @@ Humans are storytelling beings who, individually and socially, lead storied live
 
 
 
-# TERMIN 3
+# Termin 3
 <br>
 Lektüre
 
@@ -362,7 +363,7 @@ Wenger, E. (2009). A social theory of learning. In K. Illeris (Ed.), *Contempora
 Bernhard, M., Billett, S., & Kraus, K. (2026). Learning at the nexus of life course, work, and transitions. In V. J. Marsick & P. H. Sawchuk, *Adult education in changing times* (1st edn, pp. 29–45). Routledge. https://doi.org/10.4324/9781003584384-4
 
 
-# A social theory of learning
+# A Social Theory Of Learning
 
 Lernen ist ein sozialer Prozess, in dem Menschen durch Teilnahme (participation) an gemeinsamer Praxis (practice) Bedeutung (meaning) aushandeln und ihre Identität (identity) entwickeln.
 
@@ -409,7 +410,7 @@ Lernen ist ein sozialer Prozess, in dem Menschen durch Teilnahme (participation)
 </div>
 
 
-## Wie Communities of Practice aussehen
+## Wie Communities Of Practice Aussehen
 
 <div style="font-size: 0.78em; line-height: 1.2;">
 
@@ -463,7 +464,7 @@ Wenger, E. (2011). Communities of practice: A brief introduction.
 :::
 
 
-## Relevanz der Theorie im Übergang 
+## Relevanz Der Theorie Im Übergang 
 <br>
 
 Übergänge können als Prozesse verstanden werden, in denen sich Individuen zwischen Praxisgemeinschaften bewegen und dabei ihre Teilnahme, Bedeutungszuschreibungen und Identität neu aushandeln.
@@ -481,38 +482,38 @@ Wenger, E. (2011). Communities of practice: A brief introduction.
   </tr>
   <tr>
     <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Übergänge = Wechsel zwischen Praxisgemeinschaften</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	•	Schule → Betrieb <br> •	Sek I → Sek II</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Eintritt in neue Gemeinschaften mit anderen Praktiken</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	•	Schule → Betrieb <br> •	Sek I → Sek II</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Eintritt in neue Gemeinschaften mit anderen Praktiken</td>
   </tr>
   <tr>
     <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Lernen als Bewegung (Trajektorien)</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Übergänge sind keine punktuellen Ereignisse: Entwicklungsprozesse über Zeit</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Es bracuht genügend Zeit</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Übergänge sind keine punktuellen Ereignisse: Entwicklungsprozesse über Zeit</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Es braucht genügend Zeit</td>
   </tr>
   <tr>
     <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Identität im Zentrum</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	von „Schüler:in“ → „Lernende:r / Fachperson</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Es geht nicht nur um Fachwissen, Informationen</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	von „Schüler:in“ → „Lernende:r / Fachperson</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Es geht nicht nur um Fachwissen, Informationen</td>
   </tr>
   <tr>
     <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Grenzen zwischen Gemeinschaften (Boundaries)</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Übergänge = Grenzübertritte<br>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Übergänge = Grenzübertritte<br>
 	•	unterschiedliche Erwartungen<br>
 	•	unterschiedliche Praktiken<br>
 	•	unterschiedliche Kulturen </td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Missverständnisse <br>Anpassungsprobleme</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Missverständnisse <br>Anpassungsprobleme</td>
   </tr>
   <tr>
     <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Vermittlung zwischen Kontexten</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">erfolgreiche Übergänge brauchen: <br>Brücken (boundary crossing) <br>Personen, die vermitteln (broker) </td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Lehrer:innen, Berufsbildner:innen</td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">erfolgreiche Übergänge brauchen: <br>Brücken (boundary crossing) <br>Personen, die vermitteln (broker) </td>
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	Lehrer:innen, Berufsbildner:innen</td>
   </tr>
   <tr>
     <td style="width:33%; vertical-align: top; padding: 4px 12px 4px 0;">Teilnahme neu verhandeln</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Lernende müssen:
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">Lernende müssen:
 	•	ihre Rolle neu finden
 	•	ihren Platz in der neuen Gemeinschaft klären</td>
-    <td class="fragment" style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	von peripherer Teilnahme
+    <td style="width: 33%; vertical-align: top; padding: 4px 0 4px 12px;">	von peripherer Teilnahme
 → zu aktiver Beteiligung
 </td>
   </tr>
@@ -521,7 +522,7 @@ Wenger, E. (2011). Communities of practice: A brief introduction.
 </div>
 
 
-## Aktivitäten einer Community of Practice "Übergang"
+## Aktivitäten Einer Community Of Practice "Übergang"
 
 Domain<br>
 Identity defined by a shared domain of interest.
@@ -536,7 +537,7 @@ They develop a shared repertoire of resources: experiences, stories, tools, ways
 Wenger, E. (2011). Communities of practice: A brief introduction.
 :::
 
-## Wie könnte das umgesetzt werden? 
+## Wie Könnte Das Umgesetzt Werden? 
 <br>
 A social theory of learning<br><br>
 Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
@@ -568,20 +569,19 @@ Begleitung, Reflexionsräumen
 
 
 
-# Learning at the Nexus of Life Course, Work, and Transitions
+# Learning At The Nexus Of Life Course, Work, And Transitions
 
 
 # Aussagen
 
 ::: {.small-text}
-<br>
-Against the orthodoxies of schooled societies, it is important to remember that learning is something that people do for themselves and cannot be done for them. As acknowledged in various forms of constructivism, by Piaget (1971), Vygotsky (1978), and Bruner (2009), people are the meaning makers. That active process leads to changes in what individuals know (i.e., conceptual knowledge), can do (i.e., procedural knowledge), sense (i.e., perceptibility), and value (i.e., dispositional knowledge) (p. 29-30).
-
-…learning is about individual meaning-making in and active engagement with specific circumstances (p. 30).
-
-This is because the basis of that meaning making is a product of how individuals construe and construct knowledge, which involves a process of remaking, not just copying, which, again, is unlikely to be uniform because it is a person-dependent process developed biographically in the course of a life and therefore based on previous experiences (p. 31).
-
-Lastly, specific qualities and characteristics of learning emerge when learning is explored at the intersection of life course, work, and transitions: learning appears as a matter of positionality and subjectivity, is characterised by translation and transitions, and is about relating knowledge and (life) experience (p. 31)
+- Learning is something people do for themselves; it cannot simply be done for them.
+- Learning changes what people **know**, **can do**, **perceive**, and **value**.
+- Meaning-making is a process of **remaking**, shaped by biography and previous experience rather than simple copying.
+- At the nexus of life course, work, and transitions, learning is marked by:
+  - positionality and subjectivity
+  - translation and transitions
+  - relating knowledge and lived experience
 
 :::
 
@@ -605,7 +605,7 @@ Learning emerges at the intersection (“nexus”) of three domains:<br><br>
 Learning cannot be understood without considering all three together.
 
 
-## Key arguments
+## Key Arguments
 
 <div style="font-size: 0.72em; line-height: 1.15;">
 
@@ -650,7 +650,7 @@ Learning cannot be understood without considering all three together.
 
 </div>
 
-## Wie könnte das umgesetzt werden? 
+## Wie Könnte Das Umgesetzt Werden? 
 <br>
 Learning at the Nexus of Life Course, Work, and Transitions<br><br>
 Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
@@ -677,5 +677,269 @@ Zusammenspiel von Struktur und Individuum<br>
 Möglichkeiten (Lehrstelle, Unterstützung, individuellem Engagement
 
 :::
+
+
+
+# Termin 4
+
+Illeris, K. (2014). Transformative learning and identity. *Journal of Transformative Education*, 12(2), 148–163. https://doi.org/10.1177/1541344614548423
+
+
+Urpi, C., & Gamarra, M. (2022). Preventing adolescence through educational counselling on personal and vocational identity. *Journal of Health Care Education in Practice, 4*(11/2022), 31–40. https://doi.org/10.14658/pupj-jhcep-2022-2-4
+
+
+## Transformative Learning And Identity (Illeris, 2014)
+
+Kegan’s (2000) very direct question has never been answered clearly and satisfactorily!
+
+The question was: <br>
+What exactly is it that changes in transformative learning?
+
+### The New Generation
+
+“For the new generations growing up since the 1980s, the task or duty of creating, maintaining, and changing their own identities has become increasingly important and fundamental. Who am I? Who do I want to be? How can I fulfill my dreams? The possibilities may be great and never ending for some. But for others, the many choices can become a strain, a continuous demonstration of their insufficient individual capacity to make things function.” ([Illeris, 2014, p. 155]
+
+::: {.source}
+(zotero://select/library/items/W6ZEFPGE)) ([pdf](zotero://open-pdf/library/items/6PMD9GPI?page=8&annotation=ZJECWVHK))
+:::
+
+### Transformative Learning (Illeris, 2014)
+
+- Transformative learning = **changes in identity**
+- Goes beyond cognition, includes dimensions:
+  - emotional
+  - social
+  - contextual
+
+> Shift: from *thinking differently* → to *being different*
+
+### Problem Of Mezirow's Theory 
+
+- Focus on:
+  - meaning perspectives
+  - frames of reference
+- Strongly cognitive orientation
+- Neglects:
+  - emotions
+  - social context
+
+### Illeris’ Key Idea
+
+- Transformative learning = **identity transformation**
+- Identity connects:
+  - individual (inner self)
+  - society (social world)
+
+> More comprehensive than purely cognitive models
+
+## Structure Of Identity
+
+- *Core identity*
+  - stable self
+  - “Who I am”
+
+- *Personality layer*
+  - values, attitudes, perspectives
+  - main area of transformation
+
+- *Preference layer*
+  - habits, routines, everyday behaviour
+
+## When Does Transformation Occur?
+
+- Changing important identity elements requires 
+  - strong motivation
+  - personal relevance
+
+## Barriers To Transformation
+
+- *Identity defence*
+  - protects stability
+  - resists deep change
+
+- Not all learning becomes transformative
+
+## Types Of Transformation
+
+- *Progressive*
+  - development, growth
+
+- *Regressive*
+  - withdrawal, overload
+
+- *Restoring*
+  - adjusting to realistic goals
+
+## Development Across The Lifespan
+
+- Childhood<br>
+  no real transformative learning
+
+- Youth<br>
+  identity formation begins
+
+- Adulthood<br>
+  main phase of transformative learning
+
+## Key Takeaway
+
+> Transformative learning is not just changing what we think,  
+> but transforming who we are in relation to ourselves and society.
+
+
+## Wie Könnte Das Umgesetzt Werden? 
+
+Transformative learning and identity<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
+
+## Personal And Vocational Identity (Urpi & Gamarra, 2022)
+
+Key question:<br>
+How educational and vocational counselling can support adolescents in developing personal and vocational identity under conditions of stress and uncertainty.
+
+### Problem Statement
+
+::: {.small-text}
+
+**Central questions**  
+Who am I? Who do I want to become? With whom do I want to spend my life? Which values and principles guide me?
+
+::: {.cols}
+
+::: {}
+**Key influences**
+
+- family
+- counselling
+
+**Lacking resources**
+
+- adolescents often lack resources for decision-making
+- especially regarding career and life choices
+
+:::
+
+::: {}
+
+**Consequence**
+
+- they need early, structured guidance
+- through educational and vocational counselling
+:::
+
+:::
+
+:::
+
+### Family 
+
+OK, but: 
+“In short, starting with the necessary support from the family, school and society, young people need professional means to provide vocational guidance in order to undertake on their own the personal and professional project they really want to develop.”
+
+::: {.source}
+[Urpi and Gamarra, 2022, p. 36](zotero://select/library/items/WVTXZ5IR) · [pdf](zotero://open-pdf/library/items/9E3MPGMX?page=6&annotation=X8TKMMLA)
+:::
+
+### Guidance
+
+“Vocational guidance helps the young person to identify the main difficulties they may encounter at the end of the school stage and to face the process of choosing higher academic or professional studies; it helps them to reflect on what measures can facilitate this process, after becoming aware of what they like, what they dream of and where they would like to see themselves in a few years' time.”
+
+::: {.source}
+[Urpi and Gamarra, 2022, p. 36](zotero://select/library/items/WVTXZ5IR) · [pdf](zotero://open-pdf/library/items/9E3MPGMX?page=6&annotation=ZCQM4EZM)
+:::
+
+## Some Important Points Of The Paper
+
+### Adolescence As A Critical Phase
+
+- Adolescence is a period of crisis, change, and decision-making
+- Personal and vocational identity are shaped during this stage
+- Many adolescents experience stress, insecurity, and uncertainty
+- Support from adults is therefore especially important
+
+### Challenges For Gen Z
+
+- Adolescents grow up in a volatile, uncertain, complex, and ambiguous world
+- Digital life strongly shapes relationships, identity, and decision-making
+- Risks include impulsivity, distraction, peer pressure, and superficial self-presentation
+- A key challenge is balancing digital life and real life
+
+### Identity Formation
+
+- Adolescents face fundamental questions:
+  - Who am I?
+  - What do I want to become?
+  - What kind of life do I want to lead?
+- These questions are closely linked to educational and career decisions
+- Lack of self-knowledge makes these decisions more difficult
+
+### Vocational Identity
+
+- Vocational identity is more than choosing a career
+- It connects:
+  - interests
+  - talents
+  - values
+  - aspirations
+  - life project
+- A good vocational choice is part of a meaningful personal life project
+
+### Role Of The Family
+
+- Parents are important sources of support, trust, and orientation
+- Helpful parental influence includes:
+  - listening
+  - encouragement
+  - reflection
+  - providing information
+- Unhelpful influence includes:
+  - pressure
+  - imposed expectations
+  - projecting their own frustrations onto children
+
+### Role Of The School And Counselling
+
+- Teachers and counsellors help adolescents understand themselves better
+- Counselling should promote:
+  - self-knowledge
+  - reflection
+  - responsible decision-making
+- Guidance should accompany young people, not decide for them
+
+### Educational Counselling
+
+- Educational and vocational counselling helps adolescents:
+  - identify strengths and talents
+  - reflect on interests and values
+  - explore future pathways
+  - cope with uncertainty
+- Counselling is not only academic
+- It also supports broader personal development
+
+### Prevention Perspective
+
+- Guidance should begin before late adolescence
+- Early support can reduce:
+  - stress
+  - poor choices
+  - dropout
+  - lack of direction
+- Prevention means helping young people prepare for future decisions
+
+### Key Message
+
+- Adolescents need guided autonomy
+- Effective counselling combines:
+  - family support
+  - educational guidance
+  - personal reflection
+- The aim is not only career choice, but the development of a coherent life project
+
+## Wie Könnte Das Umgesetzt Werden? 
+<br>
+Personal and Vocational Identity<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
 
 
