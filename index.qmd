@@ -1345,6 +1345,8 @@ Covacevich, C., Mann, A., Santos, C., & Champaud, J. (2021). *Indicators of teen
 
 ### Indicators of Teenage Career Readiness
 
+::: {.small-text}
+
 - Exploring the future
 
 Student career exploration can increase the chances of success in the adult labour market. There is evidence that teenagers who engage in conversations about their working futures or who take part in programmes of career exploration or career guidance are more commonly found to enjoy employment boosts as young adults.
@@ -1356,6 +1358,8 @@ First-hand experiences of the workplace such as part-time work, work placements 
 - Thinking about the future
 
 Teenagers who are uncertain, confused, less ambitious, and who do not see the value of school to their future can be expected to do worse as young adults in the labour market than comparable peers
+
+:::
 
 
 ### Exploring the future 
