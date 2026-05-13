@@ -12,7 +12,7 @@ format:
     css: slides.css
 ---
 
-# Transformationen In Transitionen
+# Transformationen in Transitionen
 
 ::: {=html}
 <img src="images/Logo_UniBS.jpg" class="print-logo" alt="Logo">
@@ -31,7 +31,7 @@ Dr. Christof Nägele · Uni Basel & PH FHNW
 # Termin 1
 Einführung
 
-## Lernen Und Entwicklung
+## Lernen und Entwicklung
 <br /><br />
 Wie kann man Jugendliche oder junge Erwachsene in Transitionen am besten unterstützen, mit Fokus auf Lernen und Entwicklung?
 
@@ -116,7 +116,7 @@ Lernen bedeutet, die Zukunft vorhersagen zu können und das Verhalten dementspre
 Stangl, W. (2021). Stichwort: Lernen. Online Lexikon für Psychologie und Pädagogik. https://lexikon.stangl.eu/551/lernen/ (2021-03-02)
 :::
 
-## Arten Des Lernens
+## Arten des Lernens
 
 - Kumulation - Dressur
 - Assimilation – additives Lernen
@@ -163,12 +163,12 @@ Soziale Dimension von Interaktion, Kommunikation und Kooperation – die alle in
 Illeris, K. (2008). Lernen umfassend verstehen. In 26° Curso Seminario Internacional de Estudios sobre la Formación Profesional y la Enseñanza en el Sector de la Agricultura(August). 
 :::
 
-## Wann Und Wo Lernen Wir?
+## Wann und wo lernen wir?
 
 - Informell – Formal 
 - Implizit - Explizit
 
-## Theorie Oder Tun?
+## Theorie oder Tun?
 
 Throughout most of history, teaching and learning have been based on apprenticeship. 
 Children learned how to speak, grow crops, construct furniture, and make clothes. 
@@ -178,7 +178,7 @@ But they didn't go to school to learn these things; instead, adults in their fam
 Collins, A. (2006). Cognitive apprenticeship. In K. R. Sawyer (Ed.), The Cambridge handbook of the learning sciences. Cambridge University Press.
 :::
 
-## Learning In Activity
+## Learning in Activity
 
 The defining characteristic of a situative approach is that instead of focusing on individual learners, the main focus of analysis is on activity systems: complex social organizations containing learners, teachers, curriculum materials, software tools, and the physical environment. <br /><br />
 From the situative perspective, all socially organized activities provide opportunities for learning to occur, including learning that is different from what a teacher or designer might wish. 
@@ -208,7 +208,7 @@ Transformative learning is defined as the process by which we transform problema
 Mezirow, J. (2009). An overview on transformative learning. In K. Illeris (Ed.), Contemporary theories of learning: Learning theorists ... In their own words (pp. 90–105). Routledge.
 :::
 
-## Reflection On...
+## Reflection on...
 
 - Process
 - Content
@@ -241,7 +241,7 @@ Lektüre
 
 Wie, und von wem, kann Unterstützung im Übergang von Sek I über Sek II in Erwerbsarbeit oder Tertiärbildung als lern- und entwicklungsorientierter Prozess gestaltet werden, der Reflexion, Transformation und Identitätsentwicklung ermöglicht?
 
-## Life Transitions, Daily Living, And Transformative Learning
+## Life Transitions, Daily Living, and Transformative Learning
 
 **Reflection and introspection**
 
@@ -327,7 +327,7 @@ Transformative learning is understood as emerging through participation in socia
 Transformative learning is deeply embedded within specific contexts and unfolds through interactions with the environment and other people. <br><br>
 This approach is particularly relevant when examining significant life changes
 
-## Reflections On Transformation:<br> Stories From Southern Africa 
+## Reflections on Transformation:<br> Stories from Southern Africa 
 
 Transformative learning includes emerging from closed worlds to expanded understandings and connections. 
 Escaping from fixed and limiting, or biased views, requires not only “Border-crossing”, but a transcending of borders. 
@@ -344,7 +344,7 @@ Humans are storytelling beings who, individually and socially, lead storied live
 - Stories contribute to learning.
 - Stories combine fact and fiction together with feeling.
 
-## Paths Of Transformation
+## Paths of Transformation
 
 - Transformation begins with awareness, openness, and empathetic intention.
 - Through noticing worldviews, we are more able to think beyond them.
@@ -363,7 +363,7 @@ Wenger, E. (2009). A social theory of learning. In K. Illeris (Ed.), *Contempora
 Bernhard, M., Billett, S., & Kraus, K. (2026). Learning at the nexus of life course, work, and transitions. In V. J. Marsick & P. H. Sawchuk, *Adult education in changing times* (1st edn, pp. 29–45). Routledge. https://doi.org/10.4324/9781003584384-4
 
 
-# A Social Theory Of Learning
+# A Social Theory of Learning
 
 Lernen ist ein sozialer Prozess, in dem Menschen durch Teilnahme (participation) an gemeinsamer Praxis (practice) Bedeutung (meaning) aushandeln und ihre Identität (identity) entwickeln.
 
@@ -410,7 +410,7 @@ Lernen ist ein sozialer Prozess, in dem Menschen durch Teilnahme (participation)
 </div>
 
 
-## Wie Communities Of Practice Aussehen
+## Wie Communities of Practice aussehen
 
 <div style="font-size: 0.78em; line-height: 1.2;">
 
@@ -464,7 +464,7 @@ Wenger, E. (2011). Communities of practice: A brief introduction.
 :::
 
 
-## Relevanz Der Theorie Im Übergang 
+## Relevanz der Theorie im Übergang 
 <br>
 
 Übergänge können als Prozesse verstanden werden, in denen sich Individuen zwischen Praxisgemeinschaften bewegen und dabei ihre Teilnahme, Bedeutungszuschreibungen und Identität neu aushandeln.
@@ -522,7 +522,7 @@ Wenger, E. (2011). Communities of practice: A brief introduction.
 </div>
 
 
-## Aktivitäten Einer Community Of Practice "Übergang"
+## Aktivitäten einer Community of Practice "Übergang"
 
 Domain<br>
 Identity defined by a shared domain of interest.
@@ -537,7 +537,7 @@ They develop a shared repertoire of resources: experiences, stories, tools, ways
 Wenger, E. (2011). Communities of practice: A brief introduction.
 :::
 
-## Wie könnte das umgesetzt Werden? 
+## Wie könnte das umgesetzt werden? 
 <br>
 A social theory of learning<br><br>
 Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
@@ -567,9 +567,7 @@ Begleitung, Reflexionsräumen
 
 :::
 
-
-
-# Learning At The Nexus Of Life Course, Work, And Transitions
+# Learning at the Nexus of Life Course, Work, and Transitions
 
 
 # Aussagen
@@ -650,7 +648,7 @@ Learning cannot be understood without considering all three together.
 
 </div>
 
-## Wie könnte das umgesetzt Werden? 
+## Wie könnte das umgesetzt werden? 
 <br>
 Learning at the Nexus of Life Course, Work, and Transitions<br><br>
 Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
@@ -678,17 +676,13 @@ Möglichkeiten (Lehrstelle, Unterstützung, individuellem Engagement
 
 :::
 
-
-
 # Termin 4
 
 Illeris, K. (2014). Transformative learning and identity. *Journal of Transformative Education*, 12(2), 148–163. https://doi.org/10.1177/1541344614548423
 
-
 Urpi, C., & Gamarra, M. (2022). Preventing adolescence through educational counselling on personal and vocational identity. *Journal of Health Care Education in Practice, 4*(11/2022), 31–40. https://doi.org/10.14658/pupj-jhcep-2022-2-4
 
-
-## Transformative Learning And Identity (Illeris, 2014)
+## Transformative Learning and Identity (Illeris, 2014)
 
 Kegan’s (2000) very direct question has never been answered clearly and satisfactorily!
 
@@ -713,7 +707,7 @@ What exactly is it that changes in transformative learning?
 
 > Shift: from *thinking differently* → to *being different*
 
-### Problem Of Mezirow's Theory 
+### Problem of Mezirow's Theory 
 
 - Focus on:
   - meaning perspectives
@@ -732,7 +726,7 @@ What exactly is it that changes in transformative learning?
 
 > More comprehensive than purely cognitive models
 
-## Structure Of Identity
+## Structure of Identity
 
 - *Core identity*
   - stable self
@@ -770,7 +764,7 @@ What exactly is it that changes in transformative learning?
 - *Restoring*
   - adjusting to realistic goals
 
-## Development Across The Lifespan
+## Development Across the Lifespan
 
 - Childhood<br>
   no real transformative learning
@@ -787,13 +781,13 @@ What exactly is it that changes in transformative learning?
 > but transforming who we are in relation to ourselves and society.
 
 
-## Wie könnte das umgesetzt Werden? 
+## Wie könnte das umgesetzt werden? 
 
 Transformative learning and identity<br><br>
 Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
 
 
-## Personal And Vocational Identity <br>x(Urpi & Gamarra, 2022)
+## Personal and Vocational Identity <br>X(Urpi & Gamarra, 2022)
 
 Key question:<br>
 How educational and vocational counselling can support adolescents in developing personal and vocational identity under conditions of stress and uncertainty.
@@ -849,7 +843,7 @@ OK, but:
 [Urpi and Gamarra, 2022, p. 36](zotero://select/library/items/WVTXZ5IR) · [pdf](zotero://open-pdf/library/items/9E3MPGMX?page=6&annotation=ZCQM4EZM)
 :::
 
-## Some Important Points Of The Paper
+## Some Important Points of the Paper
 
 ### Adolescence As A Critical Phase
 
@@ -885,7 +879,7 @@ OK, but:
   - life project
 - A good vocational choice is part of a meaningful personal life project
 
-### Role Of The Family
+### Role of the Family
 
 - Parents are important sources of support, trust, and orientation
 - Helpful parental influence includes:
@@ -898,7 +892,7 @@ OK, but:
   - imposed expectations
   - projecting their own frustrations onto children
 
-### Role Of The School And Counselling
+### Role of the School and Counselling
 
 - Teachers and counsellors help adolescents understand themselves better
 - Counselling should promote:
@@ -939,6 +933,457 @@ OK, but:
 ## Wie könnte das umgesetzt werden? 
 <br>
 Personal and Vocational Identity<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
+
+
+# Termin 5
+
+Krumboltz, J. D. (2009). The happenstance learning theory. *Journal of Career Assessment, 17*(2), 135–154. (Mitchell et al., 1999) (Krumboltz, 2009)
+
+Mitchell, K. E., Levin, A. S., & Krumboltz, J. D. (1999). Planned happenstance: Constructing unexpected career opportunities. *Journal of Counseling & Development, 77*(2), 115–124. https://doi.org/10.1002/j.1556-6676.1999.tb02431.x
+
+Kokkos, A. (2022). Could transformative learning involve youth? In A. Nicolaides, S. Eschenbacher, P. T. Buergelt, Y. Gilpin-Jackson, M. Welch, & M. Misawa (Eds.), *The Palgrave handbook of learning for transformation* (pp. 883–896). Springer International Publishing. https://doi.org/10.1007/978-3-030-84694-7_49 0/0/00 0:00:00 AM
+
+## Krumboltz: The Happenstance Learning Theory (2009)
+
+
+What-you-should-be-when-you-grow-up need not and should not be planned in advance.
+
+Four propositions:
+
+1. The goal of career counseling is to help clients learn to take actions to achieve more satisfying career and personal lives-not to make a single career decision.
+2. Assessments are used to stimulate learning, not to match personal characteristics with occupational characteristics.
+3. Clients learn to engage in exploratory actions as a way of generating beneficial unplanned events.
+4. The success of counseling is assessed by what the client accomplishes in the real world outside the counseling session.
+
+
+# A Strong Sentence
+
+We have no way of knowing in advance the destiny of any individual.
+
+The Happenstance Learning Theory explains that the career destiny of each individual cannot be predicted in advance but is a function of countless planned and unplanned learning experiences beginning at birth.
+
+# Happenstance Learning Theory
+
+In a nutshell, the HLT posits that human behavior is the product of countless numbers of learning experiences made available by both planned and unplanned situations in which individuals find themselves. The learning outcomes include …
+
+- skills
+- interests 
+- knowledge
+- beliefs
+- preferences
+- sensitivities
+- emotions
+- future actions
+- …
+
+## Why People Behave the Way They Do
+
+- Genetic Influences
+- Learning Experiences
+  - Instrumental Learning - observe own actions, feedback on own actions
+  - Associative Learning - observe environment, reactions of others
+- Environmental Conditions and Events
+- Parents and Caretakers
+- Peer Groups
+- Structured Educational Settings
+- The Imperfect World
+
+## Propositions
+
+Proposition 1: The goal of career counseling is to help clients learn to take actions to achieve  more satisfying career and personal lives—not to make a single career decision.
+
+Proposition 2: Career assessments are used to stimulate learning, not to match personal characteristics with occupational characteristics.
+
+Proposition 3: Clients learn to engage in exploratory actions as a way of generating beneficial  unplanned events.
+
+Proposition 4: The success of counseling is assessed by what the client accomplishes in the  real world outside the counseling session.
+
+
+## For Career Counselors
+
+1. Orient client expectations
+2. Identify the client’s concern as a starting place
+3. Use client’s successful past experiences with unplanned events as a basis for current  actions.
+4. Sensitize clients to recognize potential opportunities
+5. Overcome Blocks to Action
+
+
+## For Other Educators
+
+The real goals of education. The problem is that we are not assessing the real goals of education? The real educational goals are evidenced by what students do after they leave school, not by what they do in school.
+
+The complicated role of poverty. School achievement is clearly correlated with family financial resources. Berliner (2006) has compiled a persuasive summary of the evidence showing that poverty is associated with low student achievement.
+
+Walking the talk. Most educational assessments place more value on the ability to use words than on the ability to perform skills.
+
+Learning to love learning. We can teach in a way that makes children either love learning or hate learning.
+
+### Practical Implications
+
+::: {.small-text}
+
+1. Help each child improve from their own starting point. Do not set one success bar for everyone: it will be too easy for some, too hard for others, and right for very few.
+2. Focus on individual, not group, achievement. The so-called achievement gap uses large-group averages beyond the reach of any single teacher or school district.
+3. Reward improvement across varied learning outcomes. High-stakes multiple-choice tests sample only parts of mathematics and English comprehension, while success also includes areas such as computer skills, singing, dancing, painting, archeology, psychology, chemistry, football, golf, history, biology, foreign languages, and food preparation.
+4. Make education satisfying and enjoyable for all participants-students, teachers, parents, counselors, and administrators. Suffering is neither necessary nor desirable for learning.
+5. Create conditions that require valuable learning tasks. Students learn best from their own actions, not from lectures.
+6. Assess education by students' and graduates' real-world performance. Filling bubbles on a multiple-choice answer sheet is not the goal of education.
+
+:::
+
+## Wie könnte das umgesetzt werden? 
+<br>
+Personal and Vocational Identity<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
+
+## Planned Happenstance: <br> Constructing Unexpected Career Opportunities (Levin, Levion, Krumboltz, 1999)
+
+Chance plays an important role in everyones career. No one can predict the future with any accuracy.
+
+::: {.very-small-text}
+
+ABER …
+Hauptgründe, weshalb der Zufall in Bildungskontexten nicht gemocht wird: 
+
+1. Nicht vorhersagbar
+    * Zufall ist per Definition unberechenbar.
+    * Er lässt sich nicht systematisch in Modelle oder Interventionen integrieren.
+2. Schwer modellierbar
+    * Unterstützung braucht Struktur, Logik und Planbarkeit.
+    * Zufall ist „untidy“ (unordentlich, unsystematisch) und widerspricht diesem Anspruch.
+3. Gefahr für professionelle Steuerung
+    * Beratung zielt darauf, Handlungsfähigkeit und Planung zu fördern.
+    * Zu viel Fokus auf Zufall könnte den Eindruck erzeugen, dass Karrieren nicht gestaltbar sind.
+4. Didaktisch schwierig
+    * Es ist kaum möglich, konkrete Strategien zu vermitteln, wie man mit völlig unvorhersehbaren Ereignissen umgeht, ausser sehr allgemein.
+
+:::
+
+
+## Strukturen
+
+<div class="cols" style="grid-template-columns: 1fr 1fr;">
+
+<div>
+
+![](images/Career-Guidance-Lower.png)
+
+</div>
+
+<div>
+
+<div class="stat-grid" style="grid-template-columns: 1fr; gap: 10px; margin-top: 0;">
+
+<div class="stat-card">
+<p class="stat-label">Providers</p>
+<p class="stat-note">**Teachers & Schools**<br>Parents<br>World of work<br>Cantonal career counselling services</p>
+</div>
+
+<div class="stat-card">
+<p class="stat-label">Duties</p>
+<p class="stat-note">Teacher: Career Orientation at school<br>Career Counsellor: Information</p>
+</div>
+
+<div class="stat-card">
+<p class="stat-label">Focus</p>
+<p class="stat-note">Finding a follow-up solution in upper secondary education for all students</p>
+</div>
+
+<div class="stat-card">
+<p class="stat-label">Who typically takes the initiative?</p>
+<p class="stat-note">**Schools**</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+## Strukturen 
+
+<div class="cols" style="grid-template-columns: 1fr 1fr;">
+
+<div>
+
+![](images/Career-Guidance-General-Education.png)
+
+</div>
+
+<div>
+
+<div class="stat-grid" style="grid-template-columns: 1fr; gap: 10px; margin-top: 0;">
+
+<div class="stat-card">
+<p class="stat-label">Providers</p>
+<p class="stat-note">University career service centres<br>Cantonal career counselling services<br>Private career counsellors and coaches</p>
+</div>
+
+<div class="stat-card">
+<p class="stat-label">Duties</p>
+<p class="stat-note">Individual counselling<br>Networking activities<br>Job fairs</p>
+</div>
+
+<div class="stat-card">
+<p class="stat-label">Focus</p>
+<p class="stat-note">Career planning, networking, and transition into the labour market</p>
+</div>
+
+<div class="stat-card">
+<p class="stat-label">Who typically takes the initiative?</p>
+<p class="stat-note">**Students**</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+## Aber …
+
+
+* Die Arbeitswelt ist dynamisch und verändert sich laufend
+* Berufe verschwinden und neue entstehen 
+* Zukünftige Entwicklungen sind nur begrenzt vorhersehbar
+* Karrieren verlaufen selten linear und planbar
+* Klassische Matching-Modelle sind zu statisch
+
+
+## Ich weiss nicht, was ich werden will ...
+
+Untenschiedenheit
+
+=> open-mindedness
+
+When friends ask the client, "So what are you going to do?"<br>
+the client would then respond, "I am learning to keep an open mind about future possibilities".
+
+Expected answer: "I am going to study engineering" …
+
+## Generating, Recognizing, and Encouraging Beneficial Chance Events
+
+Planned happenstance theory includes two concepts: 
+
+(a) Exploration generates chance opportunities for increasing quality of life, and 
+(b) skills enable people to seize opportunities.
+
+## Five Skills 
+
+1. Curiosity: exploring new learning opportunities 
+2. Persistence: exerting effort despite setbacks 
+3. Flexibility: changing attitudes and circumstances 
+4. Optimism: viewing new opportunities as possible and  attainable 
+5. RiskTaking: taking action in the face of uncertain outcomes
+
+## Facilitate Planned Happenstance 
+
+- Using assessment instruments to generate chance events.
+- Eliciting encouragement
+- …
+
+## Learning as the Purpose of Career Counseling
+
+Step 1: Normalize planned happenstance in the client's history.
+Step 2: Assist clients to transform curiosity into opportunities for learning and exploration.
+Step 3: Teach clients to produce desirable chance events.
+Step 4: Teach clients to overcome blocks to action.
+
+
+## Luck Is No Accident: Making the Most of Happenstance in Your Life and Career
+
+Krumboltz, J. D., & Levin, A. S. (2010). *Luck is no accident: Making the most of happenstance in your life and career*. Impact Publishers.
+
+### Structure of the Book
+
+1. Make the Most of Unplanned Events
+2. Always Keep Your Options Open
+3. Wake Up - Before Your Dream Comes True!
+4. Try It - Even Without Knowing the Outcome
+5. Go Ahead and Make Mistakes
+6. Take Action to Create Your Own Luck
+7. Go for the Job - Then Learn the Skills
+8. Enjoy Yourself - The Good Life Is a Balanced Life
+9. Overcome Self-Sabotage
+10. Remember That Luck Is No Accident - Important Lessons About Creating Luck
+
+
+### Questions
+
+1. List three occupations to which you aspired at some time during  your childhood.
+2. Have you ever actually been employed in any of these occupations?
+  If “yes” to #2, how similar was the reality of the job to your  childhood image of it?
+4. What unexpected event contributed most to your getting your  present (or most recent) employment?
+5. What actions had you taken prior to that event that enabled you to be in a position to experience it?
+6. What actions had you taken after the event that enabled you to  take advantage of the opportunities it presented?
+7. How satisfied are you with your present life?
+8. How might you adapt some of the actions that you took in  questions 5 and 6 to begin moving you toward an even more satisfying life now?
+
+
+# Could transformative learning involve youth?
+
+Kokkos, A. (2022). Could transformative learning involve youth? In A. Nicolaides, S. Eschenbacher, P. T. Buergelt, Y. Gilpin-Jackson, M. Welch, & M. Misawa (Eds), *The Palgrave handbook of learning for transformation* (pp. 883–896). Springer International Publishing. https://doi.org/10.1007/978-3-030-84694-7_49
+
+
+## A Crucial Question
+
+Is it possible for young people to engage in a critical reconsideration of their points of view which, according to Mezirow (1996, 1997), is also a form of transformative learning?
+
+## Two Ways of Arguing
+
+**Not possible**
+
+The will of others, his own (the young person’s) caprice and circumstances about him tend to produce an isolated momentary act [...] The choice is peculiarly exposed to arbitrary factors, to mere school traditions, to waves of pedagogical fad and fancy, to fluctuating social cross currents. (Dewey, 1933/ 1980, p. 50)
+
+Erikson (1968) posited that adolescents experience a conflict between “identity” and “identity confusion.”
+
+Therefore, the transition to adulthood is long and characterized by identity exploration, instability, in-between feelings, and self-focus (Arnett, 2007).
+
+**Possible**
+
+On this basis, Illeris claims that during youth, and especially during late adolescence where identity is intensively formulated—while at the same time one’s cognitive capacity for dialectical and critical reflection develops—transformative learning is both necessary and possible to occur. (p. 888)
+
+
+## Youth Can Change Perspectives
+
+The dominant perception within the theoretical field of learning for change is that the critical assessment and transformation of dysfunctional assumptions is a goal of adult education. However, the theoretical views that have been explored in this paper, combined with insights from educational practice, can sustain the argument that young people, as they grow older, are potentially able to engage in critical assessment of points of view that need to be questioned.
+
+=> In this sense, school can be considered as a field where it would be possible for students to engage not only in thoughtful learning but also in challenging their own problematic views or those that are communicated to them.
+
+
+# Termin 6
+
+Bereit für die Laufbahnplanung
+
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. *Journal of Vocational Behavior, 75*(3), Article 3. https://doi.org/10.1016/j.jvb.2009.04.004 (Savickas et al., 2009)
+
+Covacevich, C., Mann, A., Santos, C., & Champaud, J. (2021). *Indicators of teenage career readiness: An analysis of longitudinal data from eight countries* (OECD Education Working Papers Volume: 258 No. 258). https://doi.org/10.1787/cec854f8-en (Covacevich et al., 2021)
+
+
+## Life designing: A paradigm for career construction in the 21st century
+
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. *Journal of Vocational Behavior, 75*(3), Article 3. https://doi.org/10.1016/j.jvb.2009.04.004 (Savickas et al., 2009)
+
+
+### Life-Design
+
+Such conceptualizations of careers and vocational decision making require regular reflection on the self and the environment, receptivity to feedback, and the imagination of possible selves. People’s careers are constructed as individuals make choices that express their self-concepts. The self-concept also is constructed through the specific experiences that people have had in environments they have experienced. Narrative approaches to career counseling rely on these experiences as a meaningful resource for further life designing and building. People’s self-concepts may be altered by new experiences and even by observing the behaviors of others. Their interests are never completely fixed and the self is continuously reconstituted.
+
+### Presuppostions
+
+- From traits and states to context
+- From prescription to process
+- From linear causality to non-linear dynamics
+- From scientific facts to narrative realities
+- From describing to modeling
+
+### Goals of Life-Designing Interventions
+
+- Adaptability<br>concern, control, curiosity, confidence, commitment
+- Narratability
+- Activity
+- Intentionality
+
+
+### Intervention
+
+1. identify the problem and its broader context
+2. explore the person's current identity configuration
+3. open up new perspectives
+4. reframe the problem within a new narrative
+5. specify activities that let the person try out and enact that identity
+
+
+### Wie könnte das umgesetzt werden? 
+
+Life-Design<br><br>
+Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
+
+## Indicators of teenage career readiness
+
+Covacevich, C., Mann, A., Santos, C., & Champaud, J. (2021). *Indicators of teenage career readiness: An analysis of longitudinal data from eight countries* (OECD Education Working Papers Volume: 258 No. 258). https://doi.org/10.1787/cec854f8-en (Covacevich et al., 2021)
+
+
+### Career-related Outcomes
+
+- Not in education, employment or training (NEET) status
+- Earnings if in full-time employment
+- Career satisfaction
+
+
+### Countries in the Study
+
+- Australia
+- Canada
+- China
+- Germany
+- Korea
+- the United Kingdom (two datasets)
+- the United States (two datasets)
+- Uruguay
+
+
+### Data 
+
+| Country | Age at first data collection | Age at last data collection |
+|---------|------------------------------|---------------------------|
+| Australia | 15–16 | 25–26 |
+| Canada | 15 | 25, 29–30 |
+| China | 10–15 / 14–18 | 18–23 / 18–22 |
+| Germany | 14–16 | 23–25 |
+| Korea | 14–15 | 25–26 |
+| United Kingdom | 14–16 | 25–34 |
+| United States | 12–16 / 15 | 25–29 / 25 |
+| Uruguay | 15–16 | 24–25 |
+
+
+### Indicators of Teenage Career Readiness
+
+- Exploring the future
+
+Student career exploration can increase the chances of success in the adult labour market. There is evidence that teenagers who engage in conversations about their working futures or who take part in programmes of career exploration or career guidance are more commonly found to enjoy employment boosts as young adults.
+
+- Experiencing the future
+
+First-hand experiences of the workplace such as part-time work, work placements and volunteering can help young people imagine their possible futures in work, confirm or contest their plans and provide them with an opportunity to develop their capacity to aspire.
+
+- Thinking about the future
+
+Teenagers who are uncertain, confused, less ambitious, and who do not see the value of school to their future can be expected to do worse as young adults in the labour market than comparable peers
+
+
+### Exploring the future 
+
+- School-based career reflection activities: participating in activities that promote reflection, such as participating in career classes or answering career questionnaires 
+- Career conversations: speaking to someone individually about a career of interest 
+- Engaging with people in work through career talks or job fairs: attending career talks given by people in the world of work or attending job fairs 
+- Workplace visits or job shadowing: participation in workplace visits or job shadowing 
+- Application and interview skills development activities: participation in school-based activities that teach skills for applying to jobs (such as writing cover letters) and being interviewed for jobs 
+- Occupationally-focused short programmes: participation in short occupationally-specific courses within general programmes of education
+
+### Experiencing the future
+
+- Part-time work: participation in part-time or holiday work
+- Work placements: participation in short school-mediated work placements
+- Volunteering: participation in community-based volunteering
+
+### Thinking about the future
+
+- Career certainty: ability to name a job expected at age 30 
+- Career ambition: expecting to have professional/managerial employment at age 30 
+- Career alignment: matching of occupational and educational expectations 
+- Instrumental motivation towards school: perceiving the usefulness of schooling for their future plans 
+- Career originality: having more original career plans than peers
+
+### Wie könnte das umgesetzt werden? 
+
+Indicators of teenage career readiness<br><br>
 Wie kann man Jugendliche/junge Erwachsene im Übergang Sek I -> Sek II -> Arbeit/Tertiär am besten unterstützen, wenn der Fokus auf Lernen und Entwicklung liegen soll? 
 
 
